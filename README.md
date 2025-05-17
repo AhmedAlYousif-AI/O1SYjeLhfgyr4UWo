@@ -6,8 +6,12 @@ Building a Machine Learning model that could predict which one of the customers 
 Data Description:
 The Dataset has 6 Columns in addition of the Targeted Column (Y), the idea is to identify and predict about how much the Customer is happy and satisfied with his order ranging increasingly from X1 up to X6.
 
-Goal(s):
-Predicting which one of the customers is happier based on their answers from the quality services survey.
+Methodology:
+1. Predicting which one of the customers is happier based on their answers from the quality services survey.
+2. 
+3.
+4.
 
-Result: 
+
+Conclusion: 
 The result reached to 73% of Accuracy for detecting the customers happiness using SVM algorithm.
