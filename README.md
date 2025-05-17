@@ -8,10 +8,8 @@ The Dataset has 6 Columns in addition of the Targeted Column (Y), the idea is to
 
 Methodology:
 1. Predicting which one of the customers is happier based on their answers from the quality services survey.
-2. 
+2.
 3.
-4.
-
 
 Conclusion: 
 The result reached to 73% of Accuracy for detecting the customers happiness using SVM algorithm.
