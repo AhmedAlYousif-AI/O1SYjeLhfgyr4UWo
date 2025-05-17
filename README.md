@@ -1,4 +1,4 @@
-# O1SYjeLhfgyr4UWo
+# Happy Customers
 
 Introduction: 
 Building a Machine Learning model that could predict which one of the customers is satisfied based on the quality of provided services survey for the Logistics and Delivery field.
