@@ -1,7 +1,7 @@
 # Happy Customers
 
 Introduction: 
-Building a Machine Learning model that could predict which one of the customers is satisfied based on the quality of provided services survey for the Logistics and Delivery field.
+Built a Machine Learning model that could predict which one of the customers is satisfied based on the quality of provided services survey for the Logistics and Delivery field.
 
 Data Description:
 The Dataset has 6 Columns in addition of the Targeted Column (Y), the idea is to identify and predict about how much the Customer is happy and satisfied with his order ranged increasingly from X1 up to X6.
